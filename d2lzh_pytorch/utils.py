@@ -22,7 +22,6 @@ import torchtext
 import torchtext.vocab as Vocab
 import numpy as np
 
-
 VOC_CLASSES = ['background', 'aeroplane', 'bicycle', 'bird', 'boat',
                'bottle', 'bus', 'car', 'cat', 'chair', 'cow',
                'diningtable', 'dog', 'horse', 'motorbike', 'person',
